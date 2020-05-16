@@ -12,4 +12,4 @@ class cl_do_it definition.
 
 
 endclass.
-```
+``` abap
