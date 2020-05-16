@@ -2,6 +2,11 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+# Header
+menu:
+    Home: /
+    About: /about-me
+
 # Site
 title: My Blog
 subtitle: ''
@@ -97,11 +102,11 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-# deploy:
-  # type: git
-  # repo: 
-  #   github:
-  #     url: https://github.com/soschlegel/soschlegel.github.io.git
-  #     branch: master
+deploy:
+  type: git
+  repo: 
+    github:
+      url: https://github.com/soschlegel/soschlegel.github.io.git
+      branch: master
 
   
