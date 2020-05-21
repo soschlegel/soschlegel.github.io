@@ -21,12 +21,16 @@ Typos can happen to everybody and every time, so it's probably a good idea to us
 
 ## DeepL plugin
 
-For me and many others [DeepL.com](https://www.deepl.com/translator) is definitely the best translation solution. Let's say something line "next-generation-Google-Translate". And at least for Windows and macOS [a nice plugin is available](https://www.deepl.com/app), which offers you a quick and easy solution for doing translations. Using it on Windows, you simple mark a text to translate and git `CTRL+C+C`. This can be used in any program like Chrome, Windows or VSCode and opens a small Window where you can select your target language to translate to. ![Screenshot of DeepL-Plugin](Be-better-with-Markdown-and-Hexo/20200517a.png)
+For me and many others [DeepL.com](https://www.deepl.com/translator) is definitely the best translation solution. Let's say something line "next-generation-Google-Translate". And at least for Windows and macOS [a nice plugin is available](https://www.deepl.com/app), which offers you a quick and easy solution for doing translations. Using it on Windows, you simple mark a text to translate and git `CTRL+C+C`. This can be used in any program like Chrome, Windows or VSCode and opens a small Window where you can select your target language to translate to. 
+
+![Screenshot of DeepL-Plugin](Be-better-with-Markdown-and-Hexo/20200517a.png)
 
 ## Enhanced Markdown preview
 
 Some people don't even know that by default a Markdown-Preview is embedded in VSCode (activate it by clicking the button in the upper right corner). Relying a high number of installations and downloads the Plugin [Markdown Preview Enhanced](https://shd101wyy.github.io/markdown-preview-enhanced/#/) might be even better then the default one. I've been using it from the beginning and maybe someone knows the standard preview and knows where the differences are.
-![Find Markdown Preview Button](Be-better-with-Markdown-and-Hexo/20200517b.png))
+
+![Find Markdown Preview Button](Be-better-with-Markdown-and-Hexo/20200517b.png)
+
 Install it using this [link](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) to VSCode or search for `markdown-preview-enhanced` in `Extensions`.
 
 ## PlantUML
