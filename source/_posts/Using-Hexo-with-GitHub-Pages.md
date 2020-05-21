@@ -85,7 +85,7 @@ Now are our sources connected to the new branch and we can use the master-branch
 #### Deploy your page
 
 The problem with your "User-GitHub-Page" is, that you can only publish the master-branch (using other repositories, you are able to change the branch to be published).
-![GitHub Pages for User](../images/20200517.png)
+![GitHub Pages for User](Using-Hexo-with-GitHub-Pages/20200517.png)
 
 But this is already prepared by us - next step: Use [Hexo-Deployer](https://github.com/hexojs/hexo-deployer-git), what was already announced in the beginning.
 
