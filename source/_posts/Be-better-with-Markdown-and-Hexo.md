@@ -1,7 +1,10 @@
 ---
 title: Be better with Markdown and Hexo
 date: 2020-05-17 20:17:53
-tags: Hexo, Markdown, VSCode
+tags: 
+    - Hexo
+    - Markdown
+    - VSCode
 ---
 ## Why this post
 

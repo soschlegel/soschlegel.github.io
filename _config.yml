@@ -100,6 +100,13 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: landscape
 
+# PlantUML
+plantuml:
+  render: "PlantUMLServer"
+  server: "http://www.plantuml.com/plantuml"
+  link: "inline"
+  outputFormat: "svg"
+
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:

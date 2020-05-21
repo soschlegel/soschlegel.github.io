@@ -1,8 +1,12 @@
 ---
 title: Using Hexo with GitHub-Pages
 date: 2020-05-17 10:47:28
-tags: Hexo, GitHub, GitHub Pages
+tags: 
+- Hexo
+- GitHub
+- GitHub Pages
 ---
+## Why this post
 
 I decided to use [Hexo](https://hexo.io/) for building my building and writing my Blog after a hint of a good friend, because of two reasons:
 
