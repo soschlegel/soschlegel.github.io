@@ -13,6 +13,8 @@ I decided to use [Hexo](https://hexo.io/) for building my building and writing m
 * I wanted to get more in touch with Markdown
 * I like the fact, that it is completely build with Markdown and because of this, it is "Platform-Independent", what means, that I am always able to move all my content to another solution if I like someday :-)
 
+<!--more -->
+
 ## GitHub-Pages
 
 The next to think about, is where to host the blog? GitHub is at the moment the cool shit, so let's use GitHub with [GitHub Pages](https://pages.github.com/). The idea behind Pages is to publish nice looking content to your project and repositories, that is better styled then a typical **README.md**

@@ -8,12 +8,15 @@ tags:
 ---
 ## Why this post
 
-* After you have started writing a blog, you will quickly notice your first mistakes: Bad grammar if you are not a native speaker and very often typos. Then it's time to start thinking about how you can get better with the right plugins and be more productive with the right tools - so here we go!
+* After you have started writing a blog, you will quickly notice your first mistakes: Bad grammar if you are not a native speaker and very often typos. This will also be a collection of snippets and small How-Tos with Hexo. Then it's time to start thinking about how you can get better with the right plugins and be more productive with the right tools - so here we go!
 
 ## Updates
 
 * 17.05.2020: Initial create
 * 21.05.2020: added section [Include Images](#include-images)
+* 24.05.2020: added section [Read more](#read-more)
+
+<!-- more -->
 
 ## Code Spell Checker
 
@@ -88,6 +91,10 @@ npm i -s hexo-asset-link
 ``` markdown
 ![Structure of Source-Folder](Be-better-with-Markdown-and-Hexo/20200521.png)
 ```
+
+## Read more
+
+If you want to include a ![READ More Button](Be-better-with-Markdown-and-Hexo/20200524.png) on your overview-page, you simply need to include the `<!--more -->`-Tag at your wanted position in your post.
 
 ## others
 
