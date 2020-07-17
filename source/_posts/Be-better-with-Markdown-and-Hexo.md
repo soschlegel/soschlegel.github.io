@@ -5,8 +5,8 @@ tags:
     - Hexo
     - Markdown
     - VSCode
+subtitle: You want to start writing blogs with Hexo? Here you'll find some help to do improve your work and make your life easier
 ---
-## Why this post
 
 * After you have started writing a blog, you will quickly notice your first mistakes: Bad grammar if you are not a native speaker and very often typos. This will also be a collection of snippets and small How-Tos with Hexo. Then it's time to start thinking about how you can get better with the right plugins and be more productive with the right tools - so here we go!
 

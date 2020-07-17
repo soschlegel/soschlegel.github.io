@@ -2,16 +2,26 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+# Theme: Clean Configuration
+## GitHub: https://lusw.dev/
+  
+## Google Analytics Tracking ID
+# google_analytics:
+
 # Header
 menu:
-    Home: /
-    About: /about-me
+  Home: /
+  About: /about   
 
 # Site
-title: My Blog
-subtitle: ''
+title: one step further
+subtitle: 'because every journey begins with a first step'
 description: ''
-keywords:
+keywords: 
+  - Technology
+  - Development
+  - SAP
+  - Hexo
 author: Sören Schlegel
 language: en
 timezone: ''
@@ -39,7 +49,7 @@ skip_render:
 # Writing
 new_post_name: :title.md # File name of new posts
 default_layout: post
-titlecase: false # Transform title into titlecase
+# titlecase: false # Transform title into titlecase
 external_link:
   enable: true # Open external links in new tab
   field: site # Apply to the whole site
@@ -98,7 +108,9 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+# theme: landscape
+# https://lusw.dev/posts/hexo/theme-clean-doc.html
+theme: clean 
 
 # PlantUML
 plantuml:
@@ -115,5 +127,3 @@ deploy:
     github:
       url: https://github.com/soschlegel/soschlegel.github.io.git
       branch: master
-
-  

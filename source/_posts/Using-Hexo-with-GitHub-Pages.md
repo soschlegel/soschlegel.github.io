@@ -5,9 +5,8 @@ tags:
 - Hexo
 - GitHub
 - GitHub Pages
+subtitle: Find here some information, how to deploy your Hexo blog to Github
 ---
-## Why this post
-
 I decided to use [Hexo](https://hexo.io/) for building my building and writing my Blog after a hint of a good friend, because of two reasons:
 
 * I wanted to get more in touch with Markdown
