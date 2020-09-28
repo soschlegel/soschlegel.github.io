@@ -14,8 +14,8 @@ menu:
   About: /about   
 
 # Site
-title: one step further
-subtitle: 'because every journey begins with a first step'
+title: One Step Further
+subtitle: 'Because every Journey begins with a first Step'
 description: ''
 keywords: 
   - Technology
@@ -109,7 +109,7 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-# https://lusw.dev/posts/hexo/theme-clean-doc.html
+# https://blog.lusw.dev/posts/hexo/theme-clean-doc.html
 theme: clean 
 
 # PlantUML
