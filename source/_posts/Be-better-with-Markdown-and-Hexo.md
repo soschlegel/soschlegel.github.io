@@ -74,7 +74,7 @@ In short words:
 
 * activate `post-asset-folder` in `_config.yml`
   
-``` yaml
+```yaml
 post_asset_folder: true
 ```
 
