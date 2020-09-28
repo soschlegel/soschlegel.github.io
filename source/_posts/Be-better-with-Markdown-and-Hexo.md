@@ -96,6 +96,11 @@ npm i -s hexo-asset-link
 
 If you want to include a ![READ More Button](Be-better-with-Markdown-and-Hexo/20200524.png) on your overview-page, you simply need to include the `<!--more -->`-Tag at your wanted position in your post.
 
+{% card %}
+This feature has to be supported by your theme!
+{% endcard %}
+
+
 ## others
 
 ... time to time I'll extend this list with new stuff. Next one will probably be some solution for PlantUML and Hexo/Markdown ...
